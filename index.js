@@ -20,5 +20,5 @@ btnb.addEventListener("click", () => {
     btnb.classList.add("remove")
     const btna = document.getElementById("hamburger");
     btna.classList.add("hamburger")
-    btna.classList.remove("remove")
+    btna.classList.remove("remove")  
 })
